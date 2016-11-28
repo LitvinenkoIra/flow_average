@@ -1,0 +1,3 @@
+/home/ira/test/build/CMakeFiles/edit_cache.dir
+/home/ira/test/build/CMakeFiles/rebuild_cache.dir
+/home/ira/test/build/CMakeFiles/test.dir
